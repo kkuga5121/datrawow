@@ -1,0 +1,6 @@
+[submodule "front-end-nextjs"]
+	path = front-end-nextjs
+	url = https://github.com/kkuga5121/front-end-nextjs
+[submodule "back-end-nestjs"]
+	path = back-end-nestjs
+	url = https://github.com/kkuga5121/back-end-nestjs

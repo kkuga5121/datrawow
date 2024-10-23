@@ -1,4 +1,4 @@
-# Next.js - NestJS Application
+# DataWoW Assignment in Full-stack developer (Next.js - NestJS)
 
 This repository contains a Next.js and NestJS application for Board Application. This document provides instructions on how to set up and run the application locally.
 
